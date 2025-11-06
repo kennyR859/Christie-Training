@@ -1,0 +1,17 @@
+# Ignore claude.md (contains sensitive token information)
+claude.md
+
+# Ignore configuration files
+.claude/
+.mcp.json
+.mcp.json_backup
+
+# Ignore PDF documents
+*.pdf
+Fern's Training Program.pdf
+
+# Ignore archive folders
+Old_Classes/
+
+# Ignore docs folder
+docs/
